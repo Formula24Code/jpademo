@@ -1,7 +1,5 @@
 package com.example.jpademo.entity;
 
-import org.hibernate.annotations.GenericGenerator;
-
 import javax.persistence.*;
 import java.util.Objects;
 
